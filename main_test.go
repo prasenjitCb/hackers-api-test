@@ -25,7 +25,6 @@ func setupRouter() *gin.Engine {
 			c.AbortWithStatus(204)
 			return
 		}
-
 		c.Next()
 	})
 
