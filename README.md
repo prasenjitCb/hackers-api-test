@@ -14,7 +14,6 @@ A Go-based REST API that mirrors Hacker News content, providing endpoints for to
 
 ## Prerequisites
 
-
 - Go 1.23 or higher
 - Docker (optional)
 
