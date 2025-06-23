@@ -35,3 +35,4 @@ jobs:
           file-type: BINARY_CONTAINER
           debug: "true"
           alias: 020229604682.dkr.ecr.us-east-1.amazonaws.com/throwaway/actions/vulnerable-image:QE-23.6.3
+          
