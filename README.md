@@ -28,18 +28,19 @@ A Go-based REST API that mirrors Hacker News content, providing endpoints for to
    ```
 
 2. Install dependencies:
+3. 
    ```bash
    go mod download
    ```
    
 
-3. Generate Swagger documentation:
+4. Generate Swagger documentation:
    ```bash
    go install github.com/swaggo/swag/cmd/swag@latest
    swag init
    ```
 
-4. Run the application:
+5. Run the application:
    ```bash
    go run main.go
    ```
